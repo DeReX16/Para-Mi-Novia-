@@ -2,6 +2,7 @@ body
 *{
     background-image:url("HD-wallpaper-love-valentine-s-day-14-de-febrero-valentine-s-day-amor-love-te-amo.jpg");
     background-size: cover;
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
